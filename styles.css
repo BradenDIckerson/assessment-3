@@ -36,3 +36,23 @@ input {
 img {
 	max-width: 300px;
 }
+
+
+
+.color {
+	background-color: rgb(229, 255, 0);
+	height: 100px;
+	width: 100px;
+}
+
+.place {
+	background-color: rgb(251, 255, 0);
+	height: 100px;
+	width: 100px;
+}
+
+.ritual {
+	background-color: rgb(255, 238, 0);
+	height: 100px;
+	width: 100px;
+}
